@@ -1,1 +1,1 @@
-# Graphql-authentication-api
+# Django-Graphql-authentication-api
